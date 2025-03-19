@@ -2,6 +2,7 @@
 This project analyzes music sales data using MySQL to generate insights about customers, invoices, and artists. The dataset includes details on purchases, customer demographics, and music trends.
 
 Queries:
+
 use music_database;
 
 1. Who is the senior most employee based on job title?
